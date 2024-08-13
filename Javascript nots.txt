@@ -1,0 +1,4 @@
+Non primitive data type
+.array
+.object
+.Regex
